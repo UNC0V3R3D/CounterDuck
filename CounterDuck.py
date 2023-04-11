@@ -96,7 +96,7 @@ def on_key_press(key):
         
         key_presses_per_sec = key_count / time_diff
 
-        # If there are more than 20 key presses per second
+        # If there are more than 25 key presses per second
         if key_presses_per_sec > 25:
 
             # Define message box parameters
