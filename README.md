@@ -1,4 +1,4 @@
-# CounterDuck
+# CounterDuck (Testing phase)
 <img src="https://github.com/UNC0V3R3D/ressources/blob/main/counterduck_gradient.png" height="420" width="1200" >
 
 CounterDuck is a Python program designed to prevent BadUSB attacks. This program helps protect against malicious USB devices by constantly monitoring and blocking suspicious USB activity. With CounterDuck, you can protect your computer and personal information from potentially harmful USB devices.
