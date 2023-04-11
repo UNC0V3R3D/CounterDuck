@@ -15,19 +15,15 @@ git clone https://github.com/UNC0V3R3D/CounterDuck.git
 
 ```
 1. (In CMD) "pip install -r requirements.txt"
-2. Run setup.py
-3. The script will be put into the autostart folder of Windows.
-4. Restart your PC.
-5. Ready to go, everytime you start your pc the script is automatically activated.
+2. Put the script into the widnows auto start folder if you want to.
+3. Run the COunterDuck.py script. Done.
 ```
 ## Features
 
 The script has multiple features, here is a quick list:
 
 - Search USB devices for common serial ids like "flip" for the Flipper Zero
-- Disconnect any new USB device that connects
 - Block keyboard input if keys have been pressed too fast
-- Hide process and randomly name it
 
 ## Future
 
